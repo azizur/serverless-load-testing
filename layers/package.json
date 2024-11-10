@@ -5,10 +5,10 @@
   "author": "allenheltondev",
   "license": "MIT",
   "dependencies": {
-    "@aws-sdk/client-cloudwatch": "^3.72.0",
-    "@aws-sdk/client-s3": "^3.72.0",
-    "@aws-sdk/client-sqs": "^3.72.0",
-    "newman": "^5.3.2"
+    "@aws-sdk/client-cloudwatch": "^3.687.0",
+    "@aws-sdk/client-s3": "^3.688.0",
+    "@aws-sdk/client-sqs": "^3.687.0",
+    "newman": "^6.2.1"
   },
   "scripts": {},
   "files": []
